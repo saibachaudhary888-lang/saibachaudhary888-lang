@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Saiba 👋
 
-<!--
-**saibachaudhary888-lang/saibachaudhary888-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python learner and aspiring developer who enjoys creating projects, solving programming challenges, and exploring new technologies.
 
-Here are some ideas to get you started:
+Currently, I'm building my skills in Python programming, including Object-Oriented Programming (OOP), data structures, functions, modules, and project development. I enjoy turning ideas into practical applications and continuously learning through hands-on coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Learning Python and software development
+🔹 Building mini-projects and applications
+🔹 Exploring automation and problem-solving techniques
+🔹 Sharing my coding journey through GitHub
+
+My goal is to become a skilled software developer by consistently learning, practicing, and creating meaningful projects.
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey. 🚀
